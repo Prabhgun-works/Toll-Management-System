@@ -1,0 +1,1 @@
+2026-02-10T20:46:24.858421 : FAILED | Vehicle: RJ14AB1234 | Reason: Insufficient FASTag balance
